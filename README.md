@@ -1,3 +1,4 @@
 # WebConference
-Desenvolvimento WebConference
-Alterações
+WebConference
+Aplicação para gerir uma conferência
+
